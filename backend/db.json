@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Praveen",
+      "email": "Praveen@email.com",
+      "mobile": "9876543210",
+      "city": "Chennai"
+    },
+    {
+      "id": 2,
+      "name": "Smitha",
+      "email": "smitha@email.com",
+      "mobile": "9876543211",
+      "city": "Ananthapur"
+    },
+    {
+      "id": 3,
+      "name": "Jeevan",
+      "email": "jeevan@email.com",
+      "mobile": "9876543212",
+      "city": "Chitoor"
+    },
+    {
+      "id": 4,
+      "name": "Sarah",
+      "email": "sarah@email.com",
+      "mobile": "9876543213",
+      "city": "Hyderabad"
+    },
+    {
+      "id": 5,
+      "name": "Mydhili",
+      "email": "mydhili@email.com",
+      "mobile": "9876543214",
+      "city": "Nellore"
+    },
+    {
+      "id": 6,
+      "name": "Bhavani",
+      "email": "bhavani@email.com",
+      "mobile": "9876543215",
+      "city": "Vijayawada"
+    }
+  ]
+}
